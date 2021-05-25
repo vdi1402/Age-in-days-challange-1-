@@ -1,4 +1,4 @@
-         body{background: linear-gradient(
+        body{background: linear-gradient(
             90deg
             , rgb(0 0 0) 7%, rgba(13,69,98,1) 73%, rgb(92 73 87) 97%);}
          
@@ -43,13 +43,25 @@
 
 
         #box-2{
-                border: 2px solid;
-                position: relative;
-                top: -107px;
-                 height: 74px;}
+            border: 2px solid;
+            position: relative;
+            top: -107px;
+            height: 74px;
+            width: 50%;
+            left: 358px;
+            }
+    
+    .buttons{align-items: center;
+        position: relative;
+        width: 27%;
+        height: 70px;
+    }
+  #ageInDays{margin-left: 222px;
+    margin-top: 17px;
+    color: white;
+}
 
-
-          @media screen and (max-width: 420px) {
+    @media screen and (max-width: 420px) {
         body{background:black;}
       .box h2 {margin-left: -115px;
           
@@ -78,37 +90,4 @@ border: 1px solid white;}
     #ageInDays{margin-left: 57px;
     position: relative;
 left: -21px;
-color: white;}         
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                width: 636px;
-                left: 408px;
-            }
-    
-    .buttons{align-items: center;
-        position: relative;
-        width: 27%;
-        height: 70px;
-    }
-    #ageInDays{ margin-left: 132px;
-        margin-top: 17px;
-    }
+color: white;}
