@@ -1,0 +1,61 @@
+         body{background: linear-gradient(
+            90deg
+            , rgb(0 0 0) 7%, rgba(13,69,98,1) 73%, rgb(92 73 87) 97%);}
+         
+         
+         
+         
+         .box{position: relative;
+            top: 176px;
+            left: 464px;
+        }
+            .btn1{position: relative;
+                left: 67px;
+                background: linear-gradient( 
+            124deg
+             , #4f003b, #d60d0d00);
+                color: white;
+                width: 82px;
+                height: 40px;
+                border-radius: 7px;}
+
+
+        .btn2{position: relative;
+            background: linear-gradient( 
+        124deg
+         , #4f003b, #d60d0d00);
+            color: white;
+            width: 82px;
+            height: 40px;
+            border-radius: 7px;
+            left: 214px;
+        }
+        .box h2{color: white;
+            font-size: 55px;
+        margin-left: 30px;
+    }
+      .box2{ 
+        height: 85px;
+        width: 107%;
+        position: relative;
+        top: 362px;
+        left: -9px;}
+
+
+        #box-2{
+                border: 2px solid;
+                position: relative;
+                top: -107px;
+                height: 74px;
+                width: 636px;
+                left: 408px;
+            }
+    
+    .buttons{align-items: center;
+        position: relative;
+        width: 27%;
+        height: 70px;
+    }
+    #ageInDays{ margin-left: 132px;
+        margin-top: 17px;
+    }
