@@ -46,7 +46,60 @@
                 border: 2px solid;
                 position: relative;
                 top: -107px;
-                height: 74px;
+                 height: 74px;}
+
+
+          @media screen and (max-width: 420px) {
+        body{background:black;}
+      .box h2 {margin-left: -115px;
+          
+        position: relative;
+top:-65px;
+font-size: 49px;}
+        .box{left: 111px;}
+.btn1{width: 156px;
+    height: 63px;
+    left: -113px;
+    font-size: 29px;
+}
+
+        .btn2{width: 156px;
+            height: 63px;
+            left: 89px;
+            font-size: 29px;
+            top: -63px;}
+    
+.box2{width: 420px;}
+
+    #box-2{width: fit-content;
+    left: 11px;
+border: 1px solid white;}
+
+    #ageInDays{margin-left: 57px;
+    position: relative;
+left: -21px;
+color: white;}         
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
                 width: 636px;
                 left: 408px;
             }
